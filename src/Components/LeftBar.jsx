@@ -19,12 +19,12 @@ const LeftBar = () => {
           <p className="mb-0">
             <span className="dot red"></span>Wrong Answer
           </p>
-          <p className="mb-0">
+{/*           <p className="mb-0">
             <span className="dot blue"></span>Unanswered Answer
           </p>
           <p className="mb-0">
             <span className="dot yellow"></span>Answered Answer
-          </p>
+          </p> */}
         </div>
         <div className="row m-0 p-0 ">
           {questions &&
